@@ -1,5 +1,7 @@
 # The Solitaire Cipher (#1)
 
+[original source](http://rubyquiz.com/quiz1.html)
+
 Cryptologist Bruce Schneier designed the hand cipher "Solitaire" for Neal Stephenson's book "Cryptonomicon". Created to be the first truly secure hand cipher, Solitaire requires only a deck of cards for the encryption and decryption of messages.
 
 While it's true that Solitaire is easily completed by hand given ample time, using a computer is much quicker and easier. Because of that, Solitaire conversion routines are available in many languages, though I've not yet run across one in Ruby.
